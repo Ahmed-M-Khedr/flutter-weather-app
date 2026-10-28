@@ -19,7 +19,11 @@ A weather mobile application built with **Flutter and Dart**, providing real-tim
 
 ## 📸 Screenshots
 
-Screenshots will be added soon.
+## 📸 Screenshots
+
+| Home Screen                   | Search Screen                     | Weather Conditions                  |
+| ----------------------------- | --------------------------------- | ----------------------------------- |
+| ![Home](screenshots/home.png) | ![Search](screenshots/search.png) | ![Weather](screenshots/weather.png) |
 
 ## 🚀 Getting Started
 
