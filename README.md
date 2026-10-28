@@ -17,7 +17,6 @@ A weather mobile application built with **Flutter and Dart**, providing real-tim
 - **Cubit (Bloc)** – State management.
 - **Dio** – API requests (keep only the package actually used).
 
-## 📸 Screenshots
 
 ## 📸 Screenshots
 
