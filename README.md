@@ -1,17 +1,61 @@
-# weather_app
+# 🌤️ Flutter Weather App
 
-A new Flutter project.
+A weather mobile application built with **Flutter and Dart**, providing real-time weather information through REST API integration. The app features city-based weather searches, dynamic UI updates, and efficient state management using Cubit (Bloc).
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- Search for weather information by city name.
+- Display current temperature and weather conditions.
+- Update the interface dynamically based on weather conditions.
+- Display weather-related icons.
+- Handle API errors and network failures.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- **Flutter & Dart** – Cross-platform mobile development.
+- **REST API** – Fetching real-time weather data.
+- **Cubit (Bloc)** – State management.
+- **Dio** – API requests (keep only the package actually used).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+Screenshots will be added soon.
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Ahmed-M-Khedr/flutter-weather-app.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd flutter-weather-app
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   flutter pub get
+   ```
+
+4. Configure the weather API key according to the project's configuration.
+
+5. Run the application:
+
+   ```bash
+   flutter run
+   ```
+
+## 👨‍💻 Developer
+
+**Ahmed Mohamed Khedr**
+
+- [GitHub](https://github.com/Ahmed-M-Khedr)
+- [LinkedIn](https://www.linkedin.com/in/ahmedkhedr172)
+
+## 📌 Project Status
+
+Completed — August 2026.
