@@ -23,7 +23,7 @@ A weather mobile application built with **Flutter and Dart**, providing real-tim
 
 | Home Screen                   | Search Screen                     | Weather Conditions                  |
 | ----------------------------- | --------------------------------- | ----------------------------------- |
-| ![Home](screenshots/home.png) | ![Search](screenshots/search.png) | ![Weather](screenshots/weather.png) |
+| ![Home](screenshots/home.jpg) | ![Search](screenshots/search.jpg) | ![Weather](screenshots/weather.jpg) |
 
 ## 🚀 Getting Started
 
