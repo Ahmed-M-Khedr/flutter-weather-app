@@ -2,7 +2,7 @@
 
 A weather mobile application built with **Flutter and Dart**, providing real-time weather information through REST API integration. The app features city-based weather searches, dynamic UI updates, and efficient state management using Cubit (Bloc).
 
-## ✨✨ Features
+## ✨ Features
 
 - Search for weather information by city name.
 - Display current temperature and weather conditions.
